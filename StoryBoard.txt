@@ -1,3 +1,11 @@
 Story Board
 
 Sayyada Ayesha
+
+///////////////////////////
+
+We would have only one leading character in our hyper casual game. The character is riding on a vehicle that was used in ancient time, with one or more horses. The character is holding a speare. We may put a story in our HCG or may not, it depends on our own.The Character has to find and kill wild and dangerous devils in desert. We may use desert, Glaciers, plain area or hybrid enviroment. If character kills an innocent or good one then he looses points but if he kills dangerous devils then he got more points. 
+
+In starting, we would have very easy level thats means the character will kill the devils with no efforts. With the increment of level, there would be hurdles for the character to overcome in meanwhile he is searching and killing devils. With getting more points, the character get more weapons to overcome the powerful devils and spirits. And game go so on.
+
+In case,  if want to add a story in our HCG then we will ad more characters in it. Some characters are those who are helpless and our main character is protecting them or some characters are those who are attacking with the help of devils/spirits on innocents citizens or something else.
